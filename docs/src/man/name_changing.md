@@ -2,7 +2,7 @@
 
 ## Column names polishing
 
-Having repated column names, names with spaces in them, names where spaces are padding the beginning or the
+Having repeated column names, names with spaces in them, names where spaces are padding the beginning or the
 end, names with inconsistent formating, etc can certainly become a trouble when trying to reference a certain
 column during your workflow.
 
